@@ -7,6 +7,6 @@ spring:
         git:
           default-label: main
           uri: https://github.com/Vpp2000/configuration-server-project
-          search-paths: config-data
+          search-paths: config-files
   application:
     name: configuration-server
